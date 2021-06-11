@@ -1,0 +1,35 @@
+{
+  "name": "hex-rgbs",
+  "version": "0.1.0",
+  "description": "Convert hex to rgba or rgb. The alpha value can be a string.",
+  "keywords": [
+    "hex",
+    "rgba",
+    "rgb",
+    "css",
+    "alpha",
+    "string"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "allow-same-version": true
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malynium/hex-rgbs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/malynium/hex-rgbs/issues"
+  },
+  "author": "Jason Creviston",
+  "contributors": [
+    {
+      "name": "Jason Creviston",
+      "email": "jason@malynium.com",
+      "url": "https://github.com/jasoncrev"
+    }
+  ]
+}
