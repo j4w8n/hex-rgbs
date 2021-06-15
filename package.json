@@ -1,6 +1,6 @@
 {
   "name": "hex-rgbs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert hex to rgba or rgb. The alpha value can be a string.",
   "keywords": [
     "hex",
