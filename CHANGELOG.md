@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Nothing to see here
 
+## [0.1.1] - 2021-06-15
+
+### Fixed
+
+- incorrect 'main' declaration in package.json
+
 ## [0.1.0] - 2021-06-11
 
 ### Added
