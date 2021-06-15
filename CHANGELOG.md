@@ -13,7 +13,7 @@ Nothing to see here
 
 ### Fixed
 
-- incorrect 'main' declaration in package.json
+- incorrect 'main' path in package.json
 
 ## [0.1.0] - 2021-06-11
 
